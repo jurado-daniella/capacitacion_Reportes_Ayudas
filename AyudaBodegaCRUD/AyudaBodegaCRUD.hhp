@@ -1,0 +1,22 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaBodegaCRUD.chm
+Contents file=AyudaBodegaCRUD.hhc
+Default Window=Principal
+Default topic=mdi.html
+Display compile progress=No
+Full-text search=Yes
+Language=0x100a Spanish (Guatemala)
+Title=Ayuda del Sistema - Bodega CRUD
+
+[WINDOWS]
+Principal="Ayuda del Sistema - Bodega CRUD","AyudaBodegaCRUD.hhc",,"mdi.html","mdi.html","bodegas.html","Bodegas","reporte_bodegas.html","Reporte",0x2520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+mdi.html
+bodegas.html
+reporte_bodegas.html
+estilos.css
+
+[INFOTYPES]

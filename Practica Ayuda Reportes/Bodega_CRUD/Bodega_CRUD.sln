@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaModelo_BodegaCRUD", "CapaModelo_BodegaCRUD\CapaModelo_BodegaCRUD.csproj", "{905CD419-B75D-4DBB-B9BE-0A30CAFDB5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaControlador_BodegaCRUD", "CapaControlador_BodegaCRUD\CapaControlador_BodegaCRUD.csproj", "{DD9D7129-EC63-429F-9F02-124EF66FCF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVista_BodegaCRUD", "CapaVista_BodegaCRUD\CapaVista_BodegaCRUD.csproj", "{F8108983-824F-4179-858C-FEDF4CE67326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905CD419-B75D-4DBB-B9BE-0A30CAFDB5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905CD419-B75D-4DBB-B9BE-0A30CAFDB5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905CD419-B75D-4DBB-B9BE-0A30CAFDB5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905CD419-B75D-4DBB-B9BE-0A30CAFDB5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9D7129-EC63-429F-9F02-124EF66FCF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9D7129-EC63-429F-9F02-124EF66FCF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9D7129-EC63-429F-9F02-124EF66FCF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9D7129-EC63-429F-9F02-124EF66FCF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8108983-824F-4179-858C-FEDF4CE67326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8108983-824F-4179-858C-FEDF4CE67326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8108983-824F-4179-858C-FEDF4CE67326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8108983-824F-4179-858C-FEDF4CE67326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5D5AB1-5B5D-44CE-AEB9-DC16933604A2}
+	EndGlobalSection
+EndGlobal

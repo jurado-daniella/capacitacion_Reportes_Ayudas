@@ -1,0 +1,8 @@
+body { font-family: Verdana, Arial, sans-serif; font-size: 10pt; margin: 15px; color: #222222; }
+h1 { font-size: 16pt; color: #FFFFFF; background-color: #BC8F8F; padding: 8px; }
+h2 { font-size: 12pt; color: #8B5A5A; border-bottom: 1px solid #BC8F8F; margin-top: 18px; }
+table { border-collapse: collapse; }
+th { background-color: #BC8F8F; color: #FFFFFF; padding: 4px 8px; text-align: left; }
+td { border: 1px solid #999999; padding: 4px 8px; }
+li { margin-bottom: 4px; }
+.pie { margin-top: 25px; font-size: 8pt; color: #777777; border-top: 1px solid #CCCCCC; padding-top: 5px; }
